@@ -61,7 +61,7 @@ Deletes a specified character from the database.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/captnlucid/thronebot.git
    cd your-repo
    ```
 

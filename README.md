@@ -84,7 +84,7 @@ Deletes a specified character from the database.
     ```bash
     node app.js
     ```
-Contributing
+### Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.

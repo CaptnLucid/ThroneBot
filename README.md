@@ -72,9 +72,12 @@ Deletes a specified character from the database.
 
 3. Create a `.env` file in the root directory with the following variables:
     ```text
-    MONGODB_URI=your_mongodb_connection_string
-    ROLE_ID=your_discord_role_id
-    DEV_ID=your_discord_user_id
+    BOT_TOKEN=<Bot Token from Discord Developer Portal>
+    CLIENT_ID=<The Bot's Client ID>
+    MONGODB_URI=<Your MongoDB Connection String>
+    ROLE_ID=<Guild Role ID>
+    DEV_ID=<Bot Admin ID>
+    OFFICER_ROLE_ID=<Guild Officer or Higher ID>   
     ```
     
 4. Run the bot:
